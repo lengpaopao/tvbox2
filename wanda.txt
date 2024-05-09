@@ -2,6 +2,7 @@
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/万达.jar",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
+  "name": "赵滢鑫",
     {
       "key": "豆豆",
       "name": "🧧官方www.ijia.cc",
