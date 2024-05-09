@@ -5,7 +5,7 @@
   "name": "赵滢鑫",
     {
       "key": "豆豆",
-      "name": "推荐线路",
+      "name": "🧧官方www.ijia.cc",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
